@@ -1,0 +1,17 @@
+[2024-05-15T03:46:00.330+0800] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-05-15T03:46:00.351+0800] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: census_data_pipeline.download_data manual__2024-05-14T19:45:57.796384+00:00 [queued]>
+[2024-05-15T03:46:00.356+0800] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: census_data_pipeline.download_data manual__2024-05-14T19:45:57.796384+00:00 [queued]>
+[2024-05-15T03:46:00.357+0800] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-05-15T03:46:00.365+0800] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): download_data> on 2024-05-14 19:45:57.796384+00:00
+[2024-05-15T03:46:00.368+0800] {standard_task_runner.py:63} INFO - Started process 97669 to run task
+[2024-05-15T03:46:00.371+0800] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'census_data_pipeline', 'download_data', 'manual__2024-05-14T19:45:57.796384+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/my_dag.py', '--cfg-path', '/tmp/tmpasp7z8dq']
+[2024-05-15T03:46:00.372+0800] {standard_task_runner.py:91} INFO - Job 14: Subtask download_data
+[2024-05-15T03:46:00.398+0800] {task_command.py:426} INFO - Running <TaskInstance: census_data_pipeline.download_data manual__2024-05-14T19:45:57.796384+00:00 [running]> on host jithish-HP-ZBook-17-G5
+[2024-05-15T03:46:00.440+0800] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='example@example.com' AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='census_data_pipeline' AIRFLOW_CTX_TASK_ID='download_data' AIRFLOW_CTX_EXECUTION_DATE='2024-05-14T19:45:57.796384+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-05-14T19:45:57.796384+00:00'
+[2024-05-15T03:46:00.441+0800] {taskinstance.py:430} INFO - ::endgroup::
+[2024-05-15T03:46:00.915+0800] {python.py:237} INFO - Done. Returned value was: None
+[2024-05-15T03:46:00.915+0800] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-05-15T03:46:00.923+0800] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=census_data_pipeline, task_id=download_data, run_id=manual__2024-05-14T19:45:57.796384+00:00, execution_date=20240514T194557, start_date=20240514T194600, end_date=20240514T194600
+[2024-05-15T03:46:01.025+0800] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-05-15T03:46:01.042+0800] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-05-15T03:46:01.044+0800] {local_task_job_runner.py:222} INFO - ::endgroup::

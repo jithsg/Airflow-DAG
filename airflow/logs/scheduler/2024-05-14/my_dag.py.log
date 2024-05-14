@@ -1,0 +1,560 @@
+[2024-05-15T03:13:53.261+0800] {processor.py:161} INFO - Started process (PID=74589) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:13:53.262+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:13:53.263+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:13:53.263+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:13:53.612+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:13:53.675+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:13:53.675+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:13:53.687+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:13:53.687+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:13:53.704+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.447 seconds
+[2024-05-15T03:14:58.907+0800] {processor.py:161} INFO - Started process (PID=75311) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:14:58.968+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:14:58.970+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:14:58.969+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:14:59.430+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:14:59.438+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:14:59.438+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:14:59.452+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:14:59.452+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:14:59.538+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.635 seconds
+[2024-05-15T03:15:31.316+0800] {processor.py:161} INFO - Started process (PID=75755) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:15:31.378+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:15:31.381+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:15:31.380+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:15:31.799+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:15:31.809+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:15:31.809+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:15:31.825+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:15:31.825+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:15:31.908+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.608 seconds
+[2024-05-15T03:16:02.115+0800] {processor.py:161} INFO - Started process (PID=76111) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:16:02.176+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:16:02.179+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:16:02.178+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:16:02.505+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:16:02.512+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:16:02.511+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:16:02.522+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:16:02.522+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:16:02.605+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.498 seconds
+[2024-05-15T03:16:34.005+0800] {processor.py:161} INFO - Started process (PID=76549) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:16:34.006+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:16:34.007+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:16:34.007+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:16:34.424+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:16:34.432+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:16:34.432+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:16:34.446+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:16:34.445+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:16:34.548+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.552 seconds
+[2024-05-15T03:17:04.984+0800] {processor.py:161} INFO - Started process (PID=76949) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:17:04.985+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:17:04.986+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:17:04.986+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:17:05.287+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:17:05.304+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:17:05.303+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:17:05.323+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:17:05.322+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:17:05.408+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.432 seconds
+[2024-05-15T03:17:37.390+0800] {processor.py:161} INFO - Started process (PID=77555) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:17:37.391+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:17:37.394+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:17:37.393+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:17:37.663+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:17:37.672+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:17:37.672+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:17:37.686+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:17:37.686+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:17:37.793+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.410 seconds
+[2024-05-15T03:18:31.897+0800] {processor.py:161} INFO - Started process (PID=78290) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:18:31.897+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:18:31.899+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:18:31.899+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:18:32.160+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:18:32.171+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:18:32.171+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:18:32.184+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:18:32.183+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:18:32.286+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.399 seconds
+[2024-05-15T03:19:21.290+0800] {processor.py:161} INFO - Started process (PID=79012) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:19:21.291+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:19:21.292+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:19:21.292+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:19:21.555+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:19:21.568+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:19:21.567+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:19:21.582+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:19:21.582+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:19:21.686+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.400 seconds
+[2024-05-15T03:20:14.703+0800] {processor.py:161} INFO - Started process (PID=79769) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:20:14.764+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:20:14.770+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:20:14.769+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:20:15.067+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:20:15.080+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:20:15.080+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:20:15.095+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:20:15.095+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:20:15.177+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.478 seconds
+[2024-05-15T03:21:07.114+0800] {processor.py:161} INFO - Started process (PID=80511) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:21:07.116+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:21:07.120+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:21:07.119+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:21:07.383+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:21:07.394+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:21:07.393+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:21:07.407+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:21:07.407+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:21:07.509+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.408 seconds
+[2024-05-15T03:21:58.015+0800] {processor.py:161} INFO - Started process (PID=81250) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:21:58.077+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:21:58.081+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:21:58.080+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:21:58.339+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:21:58.351+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:21:58.350+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:21:58.370+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:21:58.369+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:21:58.474+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.466 seconds
+[2024-05-15T03:22:53.930+0800] {processor.py:161} INFO - Started process (PID=82034) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:22:53.991+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:22:53.995+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:22:53.994+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:22:54.250+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:22:54.260+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:22:54.260+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:22:54.272+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:22:54.272+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:22:54.373+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.447 seconds
+[2024-05-15T03:23:46.659+0800] {processor.py:161} INFO - Started process (PID=82482) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:23:46.720+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:23:46.724+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:23:46.723+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:23:46.983+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:23:46.992+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:23:46.992+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:23:47.004+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:23:47.004+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:23:47.105+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.451 seconds
+[2024-05-15T03:24:41.749+0800] {processor.py:161} INFO - Started process (PID=82964) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:24:41.810+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:24:41.813+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:24:41.813+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:24:42.051+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:24:42.061+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:24:42.060+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:24:42.073+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:24:42.072+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:24:42.172+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.427 seconds
+[2024-05-15T03:25:35.709+0800] {processor.py:161} INFO - Started process (PID=83444) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:25:35.771+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:25:35.776+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:25:35.775+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:25:36.033+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:25:36.042+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:25:36.042+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:25:36.054+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:25:36.054+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:25:36.158+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.453 seconds
+[2024-05-15T03:26:28.796+0800] {processor.py:161} INFO - Started process (PID=83831) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:26:28.857+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:26:28.860+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:26:28.859+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:26:29.119+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:26:29.130+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:26:29.130+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:26:29.142+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:26:29.142+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:26:29.221+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.429 seconds
+[2024-05-15T03:27:22.764+0800] {processor.py:161} INFO - Started process (PID=84631) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:27:22.828+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:27:22.833+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:27:22.832+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:27:23.112+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:27:23.123+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:27:23.122+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:27:23.134+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:27:23.134+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:27:23.219+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.459 seconds
+[2024-05-15T03:28:12.705+0800] {processor.py:161} INFO - Started process (PID=85011) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:28:12.766+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:28:12.773+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:28:12.771+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:28:13.052+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:28:13.062+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:28:13.062+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:28:13.075+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:28:13.075+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:28:13.173+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.472 seconds
+[2024-05-15T03:29:02.601+0800] {processor.py:161} INFO - Started process (PID=85510) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:29:02.662+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:29:02.667+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:29:02.666+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:29:02.943+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:29:02.953+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:29:02.953+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:29:02.965+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:29:02.964+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:29:03.063+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.467 seconds
+[2024-05-15T03:29:52.080+0800] {processor.py:161} INFO - Started process (PID=85906) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:29:52.142+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:29:52.148+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:29:52.147+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:29:52.416+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:29:52.426+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:29:52.426+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:29:52.438+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:29:52.438+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:29:52.517+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.441 seconds
+[2024-05-15T03:30:42.852+0800] {processor.py:161} INFO - Started process (PID=86347) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:30:42.913+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:30:42.917+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:30:42.916+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:30:43.181+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:30:43.191+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:30:43.191+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:30:43.203+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:30:43.202+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:30:43.307+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.459 seconds
+[2024-05-15T03:31:34.451+0800] {processor.py:161} INFO - Started process (PID=86802) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:31:34.512+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:31:34.514+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:31:34.514+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:31:34.776+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:31:34.786+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:31:34.786+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:31:34.875+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:31:34.875+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:31:34.958+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.514 seconds
+[2024-05-15T03:32:25.760+0800] {processor.py:161} INFO - Started process (PID=87187) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:32:25.820+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:32:25.822+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:32:25.821+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:32:26.068+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:32:26.077+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:32:26.077+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:32:26.089+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:32:26.089+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:32:26.182+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.426 seconds
+[2024-05-15T03:33:14.174+0800] {processor.py:161} INFO - Started process (PID=87632) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:33:14.175+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:33:14.177+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:33:14.177+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:33:14.447+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:33:14.540+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:33:14.540+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:33:14.554+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:33:14.554+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:33:14.640+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.470 seconds
+[2024-05-15T03:33:59.935+0800] {processor.py:161} INFO - Started process (PID=88087) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:33:59.996+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:33:59.997+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:33:59.997+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:34:00.304+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:34:00.387+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:34:00.387+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:34:00.399+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:34:00.399+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:34:00.478+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.548 seconds
+[2024-05-15T03:34:45.481+0800] {processor.py:161} INFO - Started process (PID=88511) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:34:45.482+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:34:45.483+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:34:45.483+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:34:45.765+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:34:45.776+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:34:45.775+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:34:45.868+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:34:45.867+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:34:45.947+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.470 seconds
+[2024-05-15T03:35:36.538+0800] {processor.py:161} INFO - Started process (PID=88932) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:35:36.598+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:35:36.600+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:35:36.599+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:35:36.905+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:35:36.919+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:35:36.919+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:35:36.940+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:35:36.940+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:35:37.171+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.637 seconds
+[2024-05-15T03:36:24.535+0800] {processor.py:161} INFO - Started process (PID=89396) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:36:24.550+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:36:24.551+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:36:24.551+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:36:24.874+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:36:24.962+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:36:24.962+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:36:24.975+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:36:24.975+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:36:25.055+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.524 seconds
+[2024-05-15T03:37:12.973+0800] {processor.py:161} INFO - Started process (PID=89817) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:37:13.033+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:37:13.035+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:37:13.034+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:37:13.330+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:37:13.341+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:37:13.340+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:37:13.429+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:37:13.429+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:37:13.508+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.541 seconds
+[2024-05-15T03:38:03.710+0800] {processor.py:161} INFO - Started process (PID=90293) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:38:03.772+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:38:03.777+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:38:03.776+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:38:04.139+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:38:04.148+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:38:04.147+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:38:04.160+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:38:04.160+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:38:04.263+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.558 seconds
+[2024-05-15T03:38:28.600+0800] {processor.py:161} INFO - Started process (PID=90575) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:38:28.662+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:38:28.664+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:38:28.663+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:38:28.982+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:38:28.993+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:38:28.993+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:38:29.005+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:38:29.005+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:38:29.114+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.518 seconds
+[2024-05-15T03:39:26.873+0800] {processor.py:161} INFO - Started process (PID=91490) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:39:26.873+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:39:26.875+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:39:26.874+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:39:27.238+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:39:27.245+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:39:27.245+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:39:27.259+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:39:27.258+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:39:27.363+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.496 seconds
+[2024-05-15T03:40:00.276+0800] {processor.py:161} INFO - Started process (PID=92709) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:40:00.337+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:40:00.342+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:40:00.341+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:40:00.717+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:40:00.727+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:40:00.726+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:40:00.739+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:40:00.739+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:40:00.845+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.577 seconds
+[2024-05-15T03:40:57.572+0800] {processor.py:161} INFO - Started process (PID=93525) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:40:57.582+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:40:57.583+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:40:57.583+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:40:57.946+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:40:57.954+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:40:57.954+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:40:57.968+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:40:57.968+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:40:58.053+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.486 seconds
+[2024-05-15T03:41:52.753+0800] {processor.py:161} INFO - Started process (PID=94300) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:41:52.815+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:41:52.819+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:41:52.818+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:41:53.197+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:41:53.207+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:41:53.207+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:41:53.222+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:41:53.222+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:41:53.238+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.502 seconds
+[2024-05-15T03:42:44.882+0800] {processor.py:161} INFO - Started process (PID=95038) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:42:44.883+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:42:44.884+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:42:44.884+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:42:45.248+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:42:45.256+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:42:45.256+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:42:45.268+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:42:45.268+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:42:45.367+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.492 seconds
+[2024-05-15T03:43:38.367+0800] {processor.py:161} INFO - Started process (PID=95806) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:43:38.399+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:43:38.403+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:43:38.402+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:43:38.780+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:43:38.788+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:43:38.788+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:43:38.800+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:43:38.800+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:43:38.885+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.526 seconds
+[2024-05-15T03:44:36.739+0800] {processor.py:161} INFO - Started process (PID=96682) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:44:36.802+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:44:36.804+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:44:36.804+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:44:37.138+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:44:37.146+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:44:37.146+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:44:37.156+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:44:37.156+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:44:37.177+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.446 seconds
+[2024-05-15T03:45:04.407+0800] {processor.py:161} INFO - Started process (PID=96924) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:45:04.470+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:45:04.475+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:45:04.474+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:45:04.924+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:45:04.936+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:45:04.935+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:45:04.953+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:45:04.953+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:45:04.970+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.570 seconds
+[2024-05-15T03:45:32.072+0800] {processor.py:161} INFO - Started process (PID=97228) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:45:32.134+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:45:32.138+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:45:32.137+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:45:32.465+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:45:32.473+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:45:32.472+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:45:32.483+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:45:32.483+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:45:32.566+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.498 seconds
+[2024-05-15T03:46:03.995+0800] {processor.py:161} INFO - Started process (PID=97722) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:46:03.996+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:46:03.998+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:46:03.997+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:46:04.352+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:46:04.361+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:46:04.361+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:46:04.375+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:46:04.375+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:46:04.476+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.490 seconds
+[2024-05-15T03:46:37.249+0800] {processor.py:161} INFO - Started process (PID=98272) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:46:37.312+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:46:37.317+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:46:37.315+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:46:37.674+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:46:37.683+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:46:37.682+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:46:37.695+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:46:37.695+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:46:37.791+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.557 seconds
+[2024-05-15T03:47:08.180+0800] {processor.py:161} INFO - Started process (PID=98671) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:47:08.181+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:47:08.183+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:47:08.183+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:47:08.578+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:47:08.587+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:47:08.587+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:47:08.600+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:47:08.600+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:47:08.705+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.531 seconds
+[2024-05-15T03:47:59.735+0800] {processor.py:161} INFO - Started process (PID=99410) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:47:59.796+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:47:59.800+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:47:59.799+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:48:00.162+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:48:00.170+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:48:00.170+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:48:00.183+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:48:00.182+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:48:00.283+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.552 seconds
+[2024-05-15T03:48:51.502+0800] {processor.py:161} INFO - Started process (PID=100154) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:48:51.503+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:48:51.505+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:48:51.505+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:48:51.876+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:48:51.885+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:48:51.885+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:48:51.897+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:48:51.897+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:48:51.914+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.418 seconds
+[2024-05-15T03:49:49.306+0800] {processor.py:161} INFO - Started process (PID=101005) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:49:49.307+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:49:49.308+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:49:49.308+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:49:49.675+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:49:49.685+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:49:49.685+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:49:49.698+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:49:49.698+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:49:49.780+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.479 seconds
+[2024-05-15T03:50:44.634+0800] {processor.py:161} INFO - Started process (PID=101769) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:50:44.635+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:50:44.637+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:50:44.636+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:50:44.982+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:50:44.991+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:50:44.991+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:50:45.003+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:50:45.003+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:50:45.106+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.479 seconds
+[2024-05-15T03:51:41.015+0800] {processor.py:161} INFO - Started process (PID=102510) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:51:41.076+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:51:41.077+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:51:41.076+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:51:41.378+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:51:41.385+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:51:41.385+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:51:41.395+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:51:41.395+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:51:41.495+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.484 seconds
+[2024-05-15T03:52:27.887+0800] {processor.py:161} INFO - Started process (PID=102965) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:52:27.890+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:52:27.891+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:52:27.891+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:52:28.192+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:52:28.199+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:52:28.199+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:52:28.210+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:52:28.209+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:52:28.294+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.411 seconds
+[2024-05-15T03:53:19.209+0800] {processor.py:161} INFO - Started process (PID=103578) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:53:19.211+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:53:19.214+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:53:19.213+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:53:19.643+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:53:19.652+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:53:19.652+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:53:19.667+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:53:19.667+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:53:19.681+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.483 seconds
+[2024-05-15T03:54:17.556+0800] {processor.py:161} INFO - Started process (PID=104328) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:54:17.618+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:54:17.623+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:54:17.622+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:54:17.954+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:54:17.961+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:54:17.961+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:54:17.972+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:54:17.972+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:54:18.065+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.515 seconds
+[2024-05-15T03:55:13.684+0800] {processor.py:161} INFO - Started process (PID=104997) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:55:13.746+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:55:13.750+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:55:13.749+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:55:14.092+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:55:14.100+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:55:14.099+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:55:14.111+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:55:14.111+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:55:14.207+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.532 seconds
+[2024-05-15T03:56:03.902+0800] {processor.py:161} INFO - Started process (PID=105573) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:56:03.946+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:56:03.950+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:56:03.949+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:56:04.312+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:56:04.319+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:56:04.319+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:56:04.329+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:56:04.329+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:56:04.434+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.537 seconds
+[2024-05-15T03:56:53.136+0800] {processor.py:161} INFO - Started process (PID=106077) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:56:53.198+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:56:53.203+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:56:53.202+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:56:53.572+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:56:53.579+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:56:53.579+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:56:53.590+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:56:53.590+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:56:53.692+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.565 seconds
+[2024-05-15T03:57:41.192+0800] {processor.py:161} INFO - Started process (PID=106509) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:57:41.253+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:57:41.254+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:57:41.254+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:57:41.608+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:57:41.616+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:57:41.616+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:57:41.629+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:57:41.628+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:57:41.714+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.527 seconds
+[2024-05-15T03:58:26.679+0800] {processor.py:161} INFO - Started process (PID=106916) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:58:26.740+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:58:26.741+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:58:26.741+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:58:27.100+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:58:27.108+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:58:27.107+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:58:27.120+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:58:27.119+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:58:27.197+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.522 seconds
+[2024-05-15T03:59:15.653+0800] {processor.py:161} INFO - Started process (PID=107495) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:59:15.715+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T03:59:15.719+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:59:15.718+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:59:16.182+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T03:59:16.199+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:59:16.199+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T03:59:16.224+0800] {logging_mixin.py:188} INFO - [2024-05-15T03:59:16.223+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T03:59:16.309+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.664 seconds
+[2024-05-15T04:00:02.981+0800] {processor.py:161} INFO - Started process (PID=107854) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:00:02.982+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:00:02.984+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:00:02.983+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:00:03.350+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:00:03.365+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:00:03.364+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:00:03.384+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:00:03.383+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:00:03.470+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.494 seconds
+[2024-05-15T04:00:51.865+0800] {processor.py:161} INFO - Started process (PID=108260) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:00:51.927+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:00:51.933+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:00:51.932+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:00:52.264+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:00:52.271+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:00:52.271+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:00:52.282+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:00:52.282+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:00:52.382+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.521 seconds
+[2024-05-15T04:01:40.627+0800] {processor.py:161} INFO - Started process (PID=108676) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:01:40.688+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:01:40.689+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:01:40.689+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:01:41.075+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:01:41.085+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:01:41.085+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:01:41.099+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:01:41.099+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:01:41.119+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.497 seconds
+[2024-05-15T04:02:29.233+0800] {processor.py:161} INFO - Started process (PID=109181) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:02:29.293+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:02:29.295+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:02:29.294+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:02:29.606+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:02:29.617+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:02:29.617+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:02:29.628+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:02:29.628+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:02:29.709+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.481 seconds
+[2024-05-15T04:02:55.301+0800] {processor.py:161} INFO - Started process (PID=109444) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:02:55.302+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:02:55.303+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:02:55.303+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:02:55.640+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:02:55.648+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:02:55.648+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:02:55.658+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:02:55.658+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:02:55.740+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.447 seconds
+[2024-05-15T04:03:24.280+0800] {processor.py:161} INFO - Started process (PID=109847) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:03:24.342+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:03:24.343+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:03:24.343+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:03:24.691+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:03:24.700+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:03:24.699+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:03:24.712+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:03:24.711+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:03:24.815+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.552 seconds
+[2024-05-15T04:04:01.214+0800] {processor.py:161} INFO - Started process (PID=110515) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:04:01.276+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:04:01.281+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:04:01.280+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:04:01.641+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:04:01.650+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:04:01.649+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:04:01.660+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:04:01.660+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:04:01.763+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.567 seconds
+[2024-05-15T04:04:35.461+0800] {processor.py:161} INFO - Started process (PID=111012) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:04:35.522+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:04:35.526+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:04:35.525+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:04:35.924+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:04:35.936+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:04:35.935+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:04:35.951+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:04:35.950+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:04:36.058+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.604 seconds
+[2024-05-15T04:05:31.249+0800] {processor.py:161} INFO - Started process (PID=111844) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:05:31.250+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:05:31.251+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:05:31.251+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:05:31.580+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:05:31.588+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:05:31.588+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:05:31.600+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:05:31.600+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:05:31.699+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.458 seconds
+[2024-05-15T04:06:25.128+0800] {processor.py:161} INFO - Started process (PID=112607) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:06:25.129+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:06:25.130+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:06:25.129+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:06:25.458+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:06:25.466+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:06:25.466+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:06:25.478+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:06:25.477+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:06:25.580+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.457 seconds
+[2024-05-15T04:07:21.167+0800] {processor.py:161} INFO - Started process (PID=113415) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:07:21.229+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:07:21.230+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:07:21.230+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:07:21.544+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:07:21.552+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:07:21.552+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:07:21.563+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:07:21.563+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:07:21.647+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.497 seconds
+[2024-05-15T04:07:47.352+0800] {processor.py:161} INFO - Started process (PID=113657) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:07:47.417+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:07:47.421+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:07:47.420+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:07:47.741+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:07:47.752+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:07:47.751+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:07:47.764+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:07:47.764+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:07:47.865+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.532 seconds
+[2024-05-15T04:08:15.667+0800] {processor.py:161} INFO - Started process (PID=114028) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:08:15.730+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:08:15.734+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:08:15.733+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:08:16.184+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:08:16.196+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:08:16.195+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:08:16.208+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:08:16.208+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:08:16.231+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.585 seconds
+[2024-05-15T04:08:46.736+0800] {processor.py:161} INFO - Started process (PID=114507) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:08:46.738+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:08:46.741+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:08:46.740+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:08:47.111+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:08:47.119+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:08:47.118+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:08:47.131+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:08:47.131+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:08:47.232+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.506 seconds
+[2024-05-15T04:09:42.947+0800] {processor.py:161} INFO - Started process (PID=115332) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:09:43.009+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:09:43.011+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:09:43.011+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:09:43.377+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:09:43.389+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:09:43.388+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:09:43.401+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:09:43.401+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:09:43.504+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.564 seconds
+[2024-05-15T04:10:36.696+0800] {processor.py:161} INFO - Started process (PID=116134) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:10:36.698+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:10:36.701+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:10:36.700+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:10:37.064+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:10:37.072+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:10:37.071+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:10:37.086+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:10:37.086+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:10:37.187+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.504 seconds
+[2024-05-15T04:11:29.132+0800] {processor.py:161} INFO - Started process (PID=116863) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:11:29.134+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:11:29.135+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:11:29.135+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:11:29.476+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:11:29.483+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:11:29.483+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:11:29.497+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:11:29.496+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:11:29.597+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.471 seconds
+[2024-05-15T04:12:30.232+0800] {processor.py:161} INFO - Started process (PID=117750) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:12:30.294+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:12:30.296+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:12:30.296+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:12:30.653+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:12:30.661+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:12:30.660+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:12:30.673+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:12:30.673+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:12:30.754+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.531 seconds
+[2024-05-15T04:13:24.981+0800] {processor.py:161} INFO - Started process (PID=118541) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:13:25.043+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:13:25.045+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:13:25.045+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:13:25.385+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:13:25.393+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:13:25.393+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:13:25.404+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:13:25.404+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:13:25.506+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.533 seconds
+[2024-05-15T04:14:23.825+0800] {processor.py:161} INFO - Started process (PID=119371) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:14:23.887+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:14:23.891+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:14:23.890+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:14:24.265+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:14:24.273+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:14:24.273+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:14:24.283+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:14:24.283+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:14:24.297+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.489 seconds
+[2024-05-15T04:15:16.064+0800] {processor.py:161} INFO - Started process (PID=119915) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:15:16.125+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:15:16.127+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:15:16.127+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:15:16.498+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:15:16.508+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:15:16.508+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:15:16.521+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:15:16.521+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:15:16.625+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.566 seconds
+[2024-05-15T04:16:08.583+0800] {processor.py:161} INFO - Started process (PID=120581) to work on /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:16:08.646+0800] {processor.py:830} INFO - Processing file /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py for tasks to queue
+[2024-05-15T04:16:08.647+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:16:08.647+0800] {dagbag.py:545} INFO - Filling up the DagBag from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:16:08.952+0800] {processor.py:840} INFO - DAG(s) 'census_data_pipeline' retrieved from /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py
+[2024-05-15T04:16:08.959+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:16:08.959+0800] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-15T04:16:08.970+0800] {logging_mixin.py:188} INFO - [2024-05-15T04:16:08.970+0800] {dag.py:3954} INFO - Setting next_dagrun for census_data_pipeline to 2024-05-14 00:00:00+00:00, run_after=2024-05-15 00:00:00+00:00
+[2024-05-15T04:16:08.987+0800] {processor.py:183} INFO - Processing /home/jithish/Documents/dag-dag-dag/airflow/dags/my_dag.py took 0.414 seconds
